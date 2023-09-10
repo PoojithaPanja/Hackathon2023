@@ -11,6 +11,8 @@ p {
   margin-bottom: 0;
 }
 
+
+
 .thumbnail {
   border-radius: 10px;
   width: 100%;
@@ -58,6 +60,7 @@ p {
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 16px;
   row-gap: 40px;
+  margin-left:180px;
 }
 .video-time {
   font-family: Roboto, Arial;
@@ -73,4 +76,8 @@ p {
   position: absolute;
   bottom: 8px;
   right: 5px;
+}
+
+.alignment {
+  margin-left:200px
 }
